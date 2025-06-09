@@ -1,5 +1,5 @@
 import cloudIcon from '../assets/cloud-computing.png';
-import { fileToBase64 } from '../js/app.js';
+import { fileToBase64 } from '../views/app.js';
 
 export function renderDiagnose() {
   const content = document.getElementById('content');
