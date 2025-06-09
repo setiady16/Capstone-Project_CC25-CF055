@@ -10,11 +10,12 @@ Sebelum memulai, pastikan Anda telah menginstal:
 
 ### 1. Clone Repository
 Clone repository ini ke direktori lokal Anda:
-git clone [URL_REPOSITORY]
+git clone https://github.com/setiady16/Capstone-Project_CC25-CF055.git
 
 ### 2. Setup Environment Python
 Jalankan perintah berikut di terminal/shell untuk menyiapkan environment Python:
 ```
+cd api
 pipenv install
 pipenv shell
 pip install -r requirements.txt
