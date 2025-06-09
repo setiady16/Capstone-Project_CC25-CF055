@@ -9,8 +9,10 @@ Sebelum memulai, pastikan Anda telah menginstal:
 ## Cara Menjalankan Website di Localhost
 
 ### 1. Clone Repository
-Clone repository ini ke direktori lokal Anda:
+Clone repository ini ke direktori lokal Anda
+```
 git clone https://github.com/setiady16/Capstone-Project_CC25-CF055.git
+```
 
 ### 2. Setup Environment Python
 Jalankan perintah berikut di terminal/shell untuk menyiapkan environment Python:
