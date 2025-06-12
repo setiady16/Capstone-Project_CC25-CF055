@@ -4,7 +4,6 @@
 Sebelum memulai, pastikan Anda telah menginstal:
 - [Node.js](https://nodejs.org/) (versi LTS disarankan)
 - [Python](https://www.python.org/) (versi 3.7 atau lebih baru)
-- [Pipenv](https://pipenv.pypa.io/) (untuk manajemen environment Python)
 
 ## Cara Menjalankan Website di Localhost
 
