@@ -67,7 +67,7 @@ Backend: http://127.0.0.1:5000
 ## Tim Kami
 | Name | University | Student ID | Learning Path |
 |---------|---------|---------|---------|
-| Dondi Setiawan |  Universitas Palangkaraya |  MC359D5Y2184 | Machine Learning | 
+| Dondi Setiawan |  Universitas Palangka Raya |  MC359D5Y2184 | Machine Learning | 
 | Dimas Aditia Anugerah Setiady |  Universitas Kristen Immanuel |  MC240D5Y0910 | Machine Learning |   
 | Samuel Rama Silo Padang |  Universitas Kristen Immanuel |  MC240D5Y1724 | Machine Learning |   
 | Yaaman Nazara |  Universitas Kristen Immanuel | FC240D5Y0978  | Front-end & Back-End |   
