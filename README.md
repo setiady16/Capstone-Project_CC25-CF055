@@ -10,7 +10,10 @@ Sistem akan menampilkan hasilnya.
 
 ### 2. Prediksi Jenis Tanaman
 User masuk kehalaman Prediksi tanaman, kemudian memasukkan inputan berdasarkan parameter kandungan tanah.
+![Prediksi Tanaman](https://github.com/Donsss/IMAGE/blob/main/capstone/prediksi%20tanaman.png)
+
 Menampilkan hasil prediksi beserta dekripsinya.
+![Deskripsi Gambar](https://github.com/Donsss/IMAGE/blob/main/capstone/dekripsi%20tanaman.png)
 
 ## Cara Menjalankan Website di Localhost
 
