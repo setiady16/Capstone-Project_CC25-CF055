@@ -12,12 +12,12 @@ Sistem akan menampilkan hasilnya.
 User masuk kehalaman Prediksi tanaman, kemudian memasukkan inputan berdasarkan parameter kandungan tanah.
 Menampilkan hasil prediksi beserta dekripsinya.
 
+## Cara Menjalankan Website di Localhost
+
 ## Prasyarat
 Sebelum memulai, pastikan Anda telah menginstal:
 - [Node.js](https://nodejs.org/) (versi LTS disarankan)
 - [Python](https://www.python.org/) (versi 3.7 atau lebih baru)
-
-## Cara Menjalankan Website di Localhost
 
 ### 1. Clone Repository
 Clone repository ini ke direktori lokal Anda
