@@ -1,4 +1,7 @@
-# Capstone-Project
+# Capstone-Project CC25-CF055
+
+## Sistem Cerdas Deteksi Penyakit pada Tanaman Padi
+Proyek ini bertujuan untuk membangun aplikasi web yang dapat membantu petani dalam mendeteksi penyakit pada tanaman padi serta memberikan referensi tingkat pH tanah yang sesuai untuk tanaman padi. Proyek ini merupakan kolaborasi lintas jalur pembelajaran Machine Learning dan Front-End serta Back-End Developer, dengan memanfaatkan model machine learning dan pengembangan aplikasi web modern yang responsif dan fungsional.
 
 ## Penggunaan Website
 ### 1. Deteksi Penyakit padi
