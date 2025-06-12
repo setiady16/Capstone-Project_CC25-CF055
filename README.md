@@ -3,17 +3,18 @@
 ## Penggunaan Website
 ### 1. Deteksi Penyakit padi
 User akan masuk kehalaman dashboard dan menekan tombol Mulai Diagnosis Sekarang.
-
+![Dashboard](https://github.com/Donsss/IMAGE/blob/main/capstone/dashboard.png)
 User me-upload gambar penyakit pada tanaman padi.
-
+![Diagnosis](https://github.com/Donsss/IMAGE/blob/main/capstone/diagnosa.png)
 Sistem akan menampilkan hasilnya.
+![Detail Diagnosis](https://github.com/Donsss/IMAGE/blob/main/capstone/hasil%20diagnosa.png)
 
 ### 2. Prediksi Jenis Tanaman
 User masuk kehalaman Prediksi tanaman, kemudian memasukkan inputan berdasarkan parameter kandungan tanah.
 ![Prediksi Tanaman](https://github.com/Donsss/IMAGE/blob/main/capstone/prediksi%20tanaman.png)
 
 Menampilkan hasil prediksi beserta dekripsinya.
-![Deskripsi Gambar](https://github.com/Donsss/IMAGE/blob/main/capstone/dekripsi%20tanaman.png)
+![Deskripsi Tanaman](https://github.com/Donsss/IMAGE/blob/main/capstone/dekripsi%20tanaman.png)
 
 ## Cara Menjalankan Website di Localhost
 
