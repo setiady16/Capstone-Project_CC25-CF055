@@ -32,6 +32,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 Clone repository ini ke direktori lokal Anda
 ```
 git clone https://github.com/setiady16/Capstone-Project_CC25-CF055.git
+cd Capstone-Project_CC25-CF055
 ```
 
 ### 2. Setup Environment Python
