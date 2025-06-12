@@ -16,6 +16,8 @@ User masuk kehalaman Prediksi tanaman, kemudian memasukkan inputan berdasarkan p
 Menampilkan hasil prediksi beserta dekripsinya.
 ![Deskripsi Tanaman](https://github.com/Donsss/IMAGE/blob/main/capstone/dekripsi%20tanaman.png)
 
+Demo website : [Youtube](https://www.youtube.com/watch?v=Bd5pAyd-f5g&feature=youtu.be)
+
 ## Cara Menjalankan Website di Localhost
 
 ## Prasyarat
@@ -61,3 +63,12 @@ Aplikasi akan berjalan pada:
 Frontend: http://localhost:5173
 Backend: http://127.0.0.1:5000
 ```
+
+## Tim Kami
+| Name | University | Student ID | Learning Path |
+|---------|---------|---------|---------|
+| Dondi Setiawan |  Universitas Palangkaraya |  MC359D5Y2184 | Machine Learning | 
+| Dimas Aditia Anugerah Setiady |  Universitas Kristen Immanuel |  MC240D5Y0910 | Machine Learning |   
+| Samuel Rama Silo Padang |  Universitas Kristen Immanuel |  MC240D5Y1724 | Machine Learning |   
+| Yaaman Nazara |  Universitas Kristen Immanuel | FC240D5Y0978  | Front-end & Back-End |   
+| Kearifan Yopimar |  Universitas Kristen Immanuel |  FC240D5Y0979 | Front-end & Back-End |   
