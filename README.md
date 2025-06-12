@@ -1,5 +1,17 @@
 # Capstone-Project
 
+## Penggunaan Website
+### 1. Deteksi Penyakit padi
+User akan masuk kehalaman dashboard dan menekan tombol Mulai Diagnosis Sekarang.
+
+User me-upload gambar penyakit pada tanaman padi.
+
+Sistem akan menampilkan hasilnya.
+
+### 2. Prediksi Jenis Tanaman
+User masuk kehalaman Prediksi tanaman, kemudian memasukkan inputan berdasarkan parameter kandungan tanah.
+Menampilkan hasil prediksi beserta dekripsinya.
+
 ## Prasyarat
 Sebelum memulai, pastikan Anda telah menginstal:
 - [Node.js](https://nodejs.org/) (versi LTS disarankan)
